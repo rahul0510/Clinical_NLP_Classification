@@ -8,3 +8,6 @@ medical entities such as drug, problem, and anatomy. . It also includes identifi
 of medical tokens, POS tagging and sentiment of the token. The data for the training
 are manually annotated and concatenated from multiple sources and to test the
 model medical reports are scrapped from websites.
+
+The output for a given input text “Biphosphonate is given to femur bone for
+osteonecrosis”
